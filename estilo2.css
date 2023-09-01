@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  height: 80px;
+  padding: 10px;
+}
+
+.con {
+  display: flex;
+  justify-content: space-between;
+}
+
+footer {
+  display: flex;
+  padding-top: 20px;
+  color: #0a0a0a;
+  justify-content: space-between;
+  align-items: center;
+}
+
+footer img {
+  height: 80px;
+  padding: 10px 10px 30px 10px;
+}
